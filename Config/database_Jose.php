@@ -2,7 +2,7 @@
 class Database
 {
     private $host = 'localhost';
-    private $dbname = 'vuelosmvc';
+    private $dbname = 'database_jose';
     private $user = 'root';
     private $pass = '';
     private $charset = 'utf8mb4';
